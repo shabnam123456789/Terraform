@@ -1,0 +1,6 @@
+ami_id = "ami-09a9858973b288bdd"
+instance_type = "t3.micro"
+key_name = "simple-python-app"
+subnet_id = "subnet-0a1e04b6049716bd7"
+security_group_id = "sg-020d1a7a3ad37a0b5"
+instance_name = "Hellow-server"
